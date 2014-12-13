@@ -16,3 +16,7 @@ Branches- within your repository.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It is easier to track and make changes.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Through email. It would be harder to communicate.
